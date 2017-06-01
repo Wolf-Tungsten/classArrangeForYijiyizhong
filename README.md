@@ -1,0 +1,2 @@
+# classArrangeForYijiyizhong
+一个用来解决一机一中神奇的走班排课问题的小程序
